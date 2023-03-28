@@ -11,7 +11,7 @@ import (
 )
 
 func main() {
-	fmt.Println(impuestoSalario(150000.00))
+	fmt.Println(impuestoSalario(30000.00))
 }
 
 func impuestoSalario(sueldo float64) float64 {
